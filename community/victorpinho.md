@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-#### Software Engineer | Angular | Java | Spring Boot | Spring Reactive | Java 8 Oracle Certificate Associate | Kotlin | SQL
+#### Software Engineer | Angular | Java | Spring Boot | Spring Reactive | Java 8 Oracle Certified Associate | Kotlin | SQL
 <i>(Saquarema, RJ - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/vtsppinho)
