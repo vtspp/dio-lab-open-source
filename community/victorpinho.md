@@ -1,6 +1,5 @@
-<img align="center" padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://media.licdn.com/dms/image/D4D16AQHleJwD7SZAYg/profile-displaybackgroundimage-shrink_350_1400/0/1708634547699?e=1714608000&v=beta&t=UA9hWN_DX404qGZGPHM-UK7sf5sHymVXysBj3SvvR1I">
 <br >
-<img align="left" padding="20px" alt="Foto de perfil de Tauan Gabriel" src="https://media.licdn.com/dms/image/D4D03AQF2tlN2eDoIDA/profile-displayphoto-shrink_200_200/0/1708634943428?e=1714608000&v=beta&t=S6z91VYRSQO3rAXIyFyaToBX42cBf9mW8Ge9aEExL5g">
+
 <h1> 
   <a href="https://www.linkedin.com/in/victor-pinho-208779a8/" style="color: #f00 !important; text-decoration: none; color: inherit;">
     <span>Victor Pinho</span>
@@ -22,11 +21,11 @@
 <i>
 <br />
   
-> Olá pessoal, atuo com desenvolvimento desde 2010 com Java e atualmente estou trabalho em um projeto no Senado Federal pela Global Hitts com Senior Developer. 
+> Olá pessoal, atuo com desenvolvimento desde 2010 com Java e atualmente estou trabalho em um projeto no Senado Federal pela Global Hitts como Senior Developer. 
   
-> Já trabalhei com diversos seguimentos de negócios (Seguradoras, Mercado Financeiro, Agência de Viagens e Serviços Públicos (Senado Federal e Processo Juducial Eletrônico).
+> Já trabalhei com diversos segmentos de negócios (Seguradoras, Mercado Financeiro, Agência de Viagens e Serviços Públicos (Senado Federal e Processo Juducial Eletrônico).
   
-> Tenho experência como Fullstack Developer com Java e Angular, Arquitetura de Microserviços, Desing Patterns, Clean Code, Arquitetura Hexagonal, Monolitos, AWS, Kafka e Bancos Ralacionais e NoSql.
+> Tenho experência como Fullstack Developer com Java e Angular, Arquitetura de Microserviços, Design Patterns, Clean Code, Arquitetura Hexagonal, Monolitos, AWS, Kafka e Bancos Ralacionais e NoSql.
   
 > Sou Certified Java Associate na versão 8.
   
@@ -36,6 +35,4 @@
 </i>
 
 <br />
-
-<img align="center" padding="0" alt="Imagem do footer da pagina contendo um trilho de trem ao por do sol" src="https://media.licdn.com/dms/image/C5616AQEy_2s0SSuEUA/profile-displaybackgroundimage-shrink_350_1400/0/1658235864274?e=1714608000&v=beta&t=jYrHUWyaoJJ--afHNEZQvgMZ2w9tMoNetRLLjFJ_Oho">
 
